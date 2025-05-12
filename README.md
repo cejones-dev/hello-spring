@@ -5,5 +5,5 @@ A minimal Spring Boot demo that serves a static `index.html` with "Hello, World!
 ## Run with Docker
 
 ```bash
-docker build -t hello-spring-gradle .
-docker run -p 8000:8000 hello-spring-gradle
+docker build -t hello-spring .
+docker run -p 8000:8000 hello-spring
