@@ -1,0 +1,33 @@
+# === Gradle build artifacts ===
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === IDE-specific files ===
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and temp files ===
+*.log
+*.tmp
+
+# === Compiled class files ===
+*.class
+
+# === Environment and configuration ===
+.env
+*.swp
+
+# === Node/npm-related ===
+node_modules/
+dist/
+
+# === Docker ===
+*.tar
