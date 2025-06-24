@@ -1,7 +1,16 @@
+.blue,
 .green {
-  background-color: green;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .blue {
-  background-color: blue;
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
 }
